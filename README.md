@@ -1,6 +1,6 @@
 # DRL_python_jumping_game
 
-An Evolutionary Algorithm called Cartesian Genetic Programming is used to evolve an AI to jump on platforms.
+The Deep Reinforcement Learning Algorithm is used to evolve an AI to jump on platforms.
 
 The repository contains the following files:
 
@@ -16,7 +16,7 @@ The repository contains the following files:
 
 `sprites.py` : Game sprites classes (player and platform)
 
-`helper.py` : Visualization of the improvement
+`helper.py` : Visualization of the improvement using a graph
 
 
 <p align="center">
