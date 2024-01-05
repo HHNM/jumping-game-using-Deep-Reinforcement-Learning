@@ -20,6 +20,6 @@ The repository contains the following files:
 
 
 <p align="center">
-  <img src="" width="361.6" height="538.4">
+  <img src="GithubImage/DRLJumpingGame.png">
 </p>
 
