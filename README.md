@@ -20,6 +20,6 @@ The repository contains the following files:
 
 
 <p align="center">
-  <img src="jumping_game_Cartesian_Genetic_Programming/tree/main/GithubImage" width="361.6" height="538.4">
+  <img src="[jumping_game_Cartesian_Genetic_Programming/tree/main/GithubImage](https://github.com/HHNM/jumping_game_Cartesian_Genetic_Programming/blob/a7c895b4f7ee49e7b6e8f48c8572b4caa8616611/GithubImage/GameScene.png)https://github.com/HHNM/jumping_game_Cartesian_Genetic_Programming/blob/a7c895b4f7ee49e7b6e8f48c8572b4caa8616611/GithubImage/GameScene.png" width="361.6" height="538.4">
 </p>
 
